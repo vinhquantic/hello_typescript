@@ -77,3 +77,5 @@ Install @mdx-js/react (https://www.npmjs.com/package/@mdx-js/react)
 
 ### `npm run storybook` or `yarn storybook`
 Automatically open the storybook page (http://localhost:6006/)
+
+### Test pull and commit/push from sourcetree "create a new commit even if fast forward is possible"
